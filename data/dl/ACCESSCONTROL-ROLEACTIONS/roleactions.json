@@ -31594,6 +31594,12 @@
       "actionid": 2947,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+	{
+      "rolecode": "VIEW_BILL_REGISTER",
+      "actionid": 1619,
+      "actioncode": "",
+      "tenantId": "dl"
+    }  
   ]
 }

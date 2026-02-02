@@ -276,6 +276,11 @@
       "code": "CANCEL_BILL_APPROVER",
       "name": "Cancel Bill Approver",
       "description": "User can review and approve Cancel Bill requests."
+    },
+    {
+      "code": "VIEW_BILL_REGISTER",
+      "name": "View Bill Register",
+      "description": "User can View the Bills Created by any User with there workflow."
     }
   ]
 }
