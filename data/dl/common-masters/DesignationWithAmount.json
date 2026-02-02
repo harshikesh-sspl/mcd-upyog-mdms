@@ -1193,6 +1193,18 @@
           "maxamount": 100000000
         }
       }
+    },
+    {
+      "code": "DESIG_117",
+      "name": "GDMO-II",
+      "description": "GDMO-II",
+      "active": true,
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     }
   ]
 }

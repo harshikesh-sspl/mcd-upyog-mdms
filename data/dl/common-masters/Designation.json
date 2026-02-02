@@ -583,6 +583,12 @@
       "name": "Principal",
       "description": "Principal",
       "active": true
+    },
+    {
+      "code": "DESIG_117",
+      "name": "GDMO-II",
+      "description": "GDMO-II",
+      "active": true
     }
   ]
 }
